@@ -44,8 +44,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/salvaDalle/salvaDalle/output/snake.svg" alt="Snake animation" />
-
-###
