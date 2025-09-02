@@ -2,12 +2,6 @@
 
 ###
 
-<p align="left">My name is Saeed and I'm a tech enthusiast. I began my career as a front-end developer and WordPress Developer back in 2018. I've created websites for a variety of businesses, honing my skills in web development and design.<br><br>However, my attention shifted towards Blockchain and Cryptocurrencies development since late 2019. In 2020, I embarked on an entrepreneurial journey by founding Fiblotech, a startup aimed at creating content and improving the level of understanding among Crypto users. Through Fiblotech, I have been actively involved in the crypto community, fostering education and awareness.<br><br>Aside from my other abilities, I delved into on-chain analysis and research within the Crypto space, further expanding my expertise and insights into this rapidly evolving field.</p>
-
-<a href="https://fiblotech.com">official FIBLOTECH website</a>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
